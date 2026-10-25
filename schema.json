@@ -1,0 +1,14 @@
+{
+  "asset_class": "Commercial Construction Progress Billing Ledger & AIA G702/G703 Retention Tracker",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "application_item_id_balancing_logs",
+    "contract_workload_scheduled_value_matrices",
+    "automated_cash_retainage_escrow_ledgers",
+    "conditional_project_lien_waiver_tracking"
+  ]
+}
